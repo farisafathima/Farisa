@@ -1,0 +1,24 @@
+[
+	{
+		"player": "shubham",
+		"player_email" : "shubham@abc.org",
+		"player_score" : "45",
+		"man_of_the_match": "False"
+	},
+	{
+		"player": "Rohit",
+		"player_email": "rohit@abc.org",
+		"player_score": "75",
+		"man_of_the_match": "False"
+			},
+	{
+		"player": "Virat",
+		"player_email": "virat@abc.org",
+		"player_score": "100",
+		"man_of_the_match": "False"
+			}
+
+]
+
+
+
