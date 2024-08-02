@@ -1,3 +1,3 @@
-### Deep Learning 
-Scripts related to deep learning, including :
-1) Implementation of Activation Functions and their Derivatives from Scratch 
+## Machine Learning
+Scripts related to various machine learning methods, including supervised and unsupervised learning, model development, and selection.It includes
+1) Batch Gradient Descent implementation from scratch
