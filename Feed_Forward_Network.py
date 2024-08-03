@@ -54,7 +54,7 @@ for i in range(hidden_layer_num):
 
 # Output layer computation
 z_out = np.dot(W_out, a) + B_out
-y_hat = activation_function(z_out).round(2)  # For regression problems, this might be the final prediction
+y_hat = activation_function(z_out).round(2)  
 
 print(f"The final prediction is {y_hat}")
 
