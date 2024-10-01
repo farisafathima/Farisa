@@ -1,5 +1,6 @@
 #This script contains CNN implementation from scratch
 
+
 import numpy as np
 
 def apply_padding(d2_image, padding_num):
